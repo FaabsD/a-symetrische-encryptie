@@ -12,3 +12,7 @@
 Van: <https://www.comparitech.com/blog/information-security/rsa-encryption/>
 
 Currently, the largest key size that has been factored is 768 bits long. This was done by a team of academics over a two year period, using hundreds of machines.
+
+## Opdracht 3
+
+GitHub gebruikt de SSH keys om te verbinden met jouw repository en om jouw te authenticeren ofwel controleren of jij het wel bent.
